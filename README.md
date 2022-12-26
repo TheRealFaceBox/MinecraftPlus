@@ -1,2 +1,2 @@
-# Minecraft-2.0
+# Minecraft+
 The Future Of Minecraft!
